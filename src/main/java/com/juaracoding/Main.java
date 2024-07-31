@@ -6,7 +6,7 @@ public class Main {
 
         int number=5;
 
-        if (true) {
+        if (number == 5) {
             System.out.println(number);
             System.out.println("True");
         }
