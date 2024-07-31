@@ -8,7 +8,6 @@ public class Main {
 
         if (number == 5) {
             System.out.println(number);
-            System.out.println("True");
         }
         for (int i = 0; i < 5; i++) {
             System.out.println(number);
